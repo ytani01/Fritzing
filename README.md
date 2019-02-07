@@ -1,11 +1,11 @@
-Fritzing parts etc.
+# Fritzing parts etc.
 
-# Parts
+## Parts
 
-## Motor driver
+### Motor driver
 
-### TA7291P
+#### TA7291P
 
-## Infrared receiver module
+### Infrared receiver module
 
-### OSRB38C9AA
+#### OSRB38C9AA
